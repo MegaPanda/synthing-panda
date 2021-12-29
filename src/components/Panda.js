@@ -9,7 +9,7 @@ export default function Panda({ ...props }) {
   const { nodes } = useGLTF('/panda.glb');
 
   const synth = new Tone.Synth({
-    volume: -12
+    volume: -6
   }).toDestination();
   const synthRef = useRef(synth);
 
