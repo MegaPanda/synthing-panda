@@ -7,12 +7,14 @@ import './styles.css'
 function App() {
   return (
     <>
+    {/*
       <div style={{ position: "absolute", bottom: "10px", left: "10px", zIndex: 10, color: "#FAF089", 
           fontFamily: "system-ui", fontSize: "10px", fontWeight: 700
       }}>
         Drag the panda up and<br />
         down to make some noise!
       </div>
+    */}
       <Canvas camera={{ fov: 75, position: [0, 0, 7] }}>
         <color attach="background" args={['#1A202C']} />
         <ambientLight />
