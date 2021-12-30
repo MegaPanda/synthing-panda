@@ -1,6 +1,7 @@
 # Synthing Panda
-
-[![website image](https://weilunma.dev/synthing-panda.jpg)](https://synthing-panda.netlify.app/)
+<a href="https://synthing-panda.netlify.app/">
+    <img src="https://weilunma.dev/synthing-panda.jpg" alt="app image" width="300px" />
+</a>
 
 ## About The Project
 Inspired by Google Arts & Culture's [Blob Opera](https://g.co/arts/fCbtbGkNjqxVACtf6), Synthing Panda is a fun, interactive piece built with JavaScript, using Three.js for 3D animation and Tone.js for web audio processing. The 3D panda model is created with Blender.
